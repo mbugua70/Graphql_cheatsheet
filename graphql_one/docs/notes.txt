@@ -1,0 +1,7 @@
+// GRAPHQL //
+Graphql - query language
+        - used for data fetching and fetching only the data you want from the server
+
+** sending request to the server using a single endpoint.
+
+** Appollo server is used to spin the node/GRAPHQL server.
